@@ -130,3 +130,7 @@
         </div>
     </body>
 </html>
+<script src="http://localhost/banner_project/public/banner.js" 
+        data-width="350px" 
+        data-height="120px" 
+        data-position="top"></script>
